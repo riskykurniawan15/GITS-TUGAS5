@@ -6,6 +6,7 @@ import (
 )
 
 func main(){
+	// Risky Kurniawan - ARS University
 	fmt.Println("================================")
 	fmt.Println("    PROGRAM CETAK SEGITIGA")
 	fmt.Println("================================")
